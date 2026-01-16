@@ -1,14 +1,38 @@
-<div style="display: flex; align-items: center; gap: 10px; margin-bottom: 20px;">
-  <h2 style="margin: 0; font-size: 2rem; color: #ffcb05; text-shadow: 1px 1px 2px #000;">Hi there 👋</h2>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="80" style="transform: translateY(5px);" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+João+Josafá+%F0%9F%91%8B;Backend+Developer+in+Progress+%F0%9F%9A%80;Always+Learning%2C+Always+Coding+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
-- 👋 Hi, I’m **João Josafá**
-- 👨‍💻 Backend developer in progress
-- 📚 Currently learning **English**, **Java & Spring Boot (Beginner)**, **C/C++ (Just started)**
-- 📫 How to reach me: [joaojosafa11@proton.me](mailto:joaojosafa11@proton.me) or [contactjoaojosafa@gmail.com](mailto:contactjoaojosafa@gmail.com)
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+### 🧑‍💻 About Me
+
+```java
+public class Developer {
+    String name = "João Josafá";
+    String role = "Backend Developer";
+    String[] currentlyLearning = {"Java & Spring Boot", "C/C++", "English"};
+    String location = "Brazil 🇧🇷";
+    
+    void code() {
+        while(true) {
+            learn();
+            build();
+            repeat();
+        }
+    }
+}
+```
+
+- 🔭 Currently diving deep into **Spring Boot** ecosystem
+- 🌱 Exploring the depths of **C/C++** for low-level understanding
+- 💬 Ask me about **Java, REST APIs, Docker**
+- 📫 Reach me: [joaojosafa11@proton.me](mailto:joaojosafa11@proton.me)
+- ⚡ Fun fact: I'm a strong believer in open source and free access to knowledge - information wants to be free!
+
+---
 
 ### Technologies 💻
+
 <div style="display: flex; align-items: flex-start;">
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="80" height="80"/>
     <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="80" height="80"/>
@@ -25,6 +49,27 @@
     <img src="https://skillicons.dev/icons?i=md" width="80" height="80" />
 </div>
 
-<!--
-### Contributing projects
+---
+
+<!-- 
+### 💼 What I'm Working On
+
+📦 Building RESTful APIs with Spring Boot
+🔧 Mastering design patterns and clean architecture
+🐧 Getting comfortable with Linux environment
+📚 Contributing to open source when possible
 -->
+
+<div align="center">
+  
+  ### 💬 Let's Connect!
+  
+  [![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:joaojosafa11@proton.me)
+  
+  ---
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  
+  <sub>Built with ❤️ on Linux | Open Source Advocate 🐧</sub>
+  
+</div>
