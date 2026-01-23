@@ -53,11 +53,6 @@ public class Developer {
 
 <!-- 
 ### 💼 What I'm Working On
-
-📦 Building RESTful APIs with Spring Boot
-🔧 Mastering design patterns and clean architecture
-🐧 Getting comfortable with Linux environment
-📚 Contributing to open source when possible
 -->
 
 <div align="center">
