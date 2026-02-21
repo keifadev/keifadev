@@ -10,8 +10,10 @@
 public class Developer {
     String name = "João Pedro Josafá";
     String role = "Backend Developer";
-    String[] currentlyLearning = {"Java & Spring Boot", "English"};
+    String[] stack  = {"Java", "Spring Boot", "REST APIs", "Docker"};
+    String learning = "English & RabbitMQ|Kafka";
     String location = "Brazil 🇧🇷";
+    int yearsCoding = LocalDate.now().getYear() - 2022;
     
     void code() {
         while(true) {
@@ -22,12 +24,12 @@ public class Developer {
     }
 }
 ```
-
-- 🔭 Currently diving deep into **Spring Boot** ecosystem
-- 🌱 Exploring **C/C++** for low-level understanding
-- 🐧 **Linux enthusiast** and daily user
+- ☕ **Backend Developer** focused on **Java & Spring Boot**
+- 🐧 **Linux** daily driver & enthusiast
+- 🔭 Currently diving deep into the **Spring ecosystem**
+- 🌱 Exploring **C** for low-level understanding
 - 📫 Reach me: [joaojosafa11@proton.me](mailto:joaojosafa11@proton.me)
-- ⚡ Fun fact: I'm a strong believer in open source and free access to knowledge - information wants to be free!
+- 🌐 Portfolio: [**keifadev.vercel.app**](https://keifadev.vercel.app)
 
 ---
 
@@ -44,9 +46,14 @@ public class Developer {
     <img src="https://skillicons.dev/icons?i=postgresql" width="80" height="80" />
     <img src="https://skillicons.dev/icons?i=git" width="80" height="80" />
     <img src="https://skillicons.dev/icons?i=linux" width="80" height="80" />
+    <img src="https://skillicons.dev/icons?i=bash" width="80" height="80" />
     <img src="https://skillicons.dev/icons?i=maven" width="80" height="80" />
     <img src="https://skillicons.dev/icons?i=spring" width="80" height="80" />
     <img src="https://skillicons.dev/icons?i=md" width="80" height="80" />
+    <img src="https://skillicons.dev/icons?i=nextjs" width="80" height="80" />
+    <img src="https://skillicons.dev/icons?i=ts" width="80" height="80" />
+    <img src="https://skillicons.dev/icons?i=react" width="80" height="80" />
+    <img src="https://skillicons.dev/icons?i=nodejs" width="80" height="80" />
 </div>
 
 ---
@@ -58,7 +65,8 @@ public class Developer {
 <div align="center">
   
   ### 💬 Let's Connect!
-  
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://keifadev.vercel.app)
   [![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:joaojosafa11@proton.me)
   
   ---
